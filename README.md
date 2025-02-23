@@ -18,7 +18,7 @@ Features of My Calculator
 
 1. Basic Arithmetic Operations: Addition, subtraction, multiplication, and division functionality.
 2. User -Friendly Interface: Buttons are clearly labeled and well-placed for intuitive usage.
-3. Error Handling: The calculator gracefully handles invalid inputs (e.g., division by zero or malformed expressions).
+3. Error Handling: The calculator gracefully handles invalid inputs.
 4. Responsive Design: Works seamlessly across devices of varying screen sizes.
 
 Creating a Simple Calculator
